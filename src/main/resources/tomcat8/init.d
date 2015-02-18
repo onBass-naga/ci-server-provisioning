@@ -25,7 +25,7 @@ export JAVA_OPTS="-Dfile.encoding=UTF-8
   -XX:MaxPermSize=128m
   -Xms512m -Xmx1024m"
 export PATH=$JAVA_HOME/bin:$PATH
-TOMCAT_HOME=/opt/tomcat8/apache-tomcat-8.0.15
+TOMCAT_HOME=/opt/tomcat8/apache-tomcat-8.0.18
 TOMCAT_USER=tomcat8
 SHUTDOWN_WAIT=20
 
